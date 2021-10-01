@@ -1,1 +1,1 @@
-# avsdFrequencySynthesizer
+# 130nm PLL Frequency Synthesizer IP
