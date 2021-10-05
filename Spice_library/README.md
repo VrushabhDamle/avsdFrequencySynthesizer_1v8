@@ -19,4 +19,4 @@ You can download the library files given above or you can clone it as follows.
 .include invariant.spice
 .include lod.spice
 ```
-
+- This should include all of the files mentioned above in this library and you can use this library to access all these files at once.
